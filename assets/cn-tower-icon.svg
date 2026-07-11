@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="25" result="wide"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="near"/>
+      <feMerge><feMergeNode in="wide"/><feMergeNode in="near"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#56f8ff"/>
+      <stop offset="0.52" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#ff2bd6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="#030304"/>
+  <g fill="none" stroke="url(#neon)" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <!-- antenna and central mast -->
+    <path d="M512 126 L512 300" stroke-width="15"/>
+    <path d="M512 205 L502 287" stroke-width="6" opacity=".85"/>
+    <!-- iconic observation deck -->
+    <path d="M512 295 C486 308 467 328 456 355 L420 374 C403 383 393 398 393 415 C393 434 407 448 429 453 L470 462 L466 493 L558 493 L554 462 L595 453 C617 448 631 434 631 415 C631 398 621 383 604 374 L568 355 C557 328 538 308 512 295 Z" stroke-width="15"/>
+    <path d="M414 410 C466 429 558 429 610 410" stroke-width="8" opacity=".9"/>
+    <path d="M437 452 C479 463 545 463 587 452" stroke-width="7" opacity=".72"/>
+    <!-- tapered concrete shaft -->
+    <path d="M480 493 C476 596 459 721 426 849" stroke-width="16"/>
+    <path d="M544 493 C548 596 565 721 598 849" stroke-width="16"/>
+    <path d="M512 500 L512 838" stroke-width="6" opacity=".45"/>
+    <!-- base -->
+    <path d="M426 849 L390 883 L634 883 L598 849" stroke-width="17"/>
+    <path d="M450 850 L574 850" stroke-width="7" opacity=".8"/>
+  </g>
+  <circle cx="512" cy="125" r="9" fill="#56f8ff" filter="url(#glow)"/>
+</svg>
