@@ -1,104 +1,14 @@
 {
-  "updated": "2026-07-11T01:39:07.264829+00:00",
+  "updated": "2026-07-11T01:39:26.257739+00:00",
   "events": [
     {
       "title": "BEES",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "venue": "Royal Ontario Museum",
       "description": "On view through 2026-10-18. An easy museum outing for curious adults and kids.",
       "url": "https://www.rom.on.ca/whats-on/programs",
       "category": "Live Events",
       "audience": "family"
-    },
-    {
-      "title": "Derby",
-      "date": "2026-07-10",
-      "venue": "Sneaky Dee's",
-      "description": "Derby live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43264181-derby-at-sneaky-dees?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Digable Planets",
-      "date": "2026-07-10",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Digable Planets live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43149002-digable-planets-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Elissa",
-      "date": "2026-07-10",
-      "venue": "9baci",
-      "description": "Elissa live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/42923559-elissa-at-9baci?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Madison Beer",
-      "date": "2026-07-10",
-      "venue": "Coca-Cola Coliseum",
-      "description": "Madison Beer live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/42985892-madison-beer-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Mother Tongues",
-      "date": "2026-07-10",
-      "venue": "Osler Records",
-      "description": "Mother Tongues live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43262760-mother-tongues-at-osler-records?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Noizu",
-      "date": "2026-07-10",
-      "venue": "CODA",
-      "description": "Noizu live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43254208-noizu-at-coda?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Skinshape",
-      "date": "2026-07-10",
-      "venue": "Mod Club Theatre",
-      "description": "Skinshape live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43110290-skinshape-at-mod-club-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Tim Baker",
-      "date": "2026-07-10",
-      "venue": "The Hayloft Dancehall",
-      "description": "Tim Baker live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43216851-tim-baker-at-hayloft-dancehall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Tripolism",
-      "date": "2026-07-10",
-      "venue": "Soluna",
-      "description": "Tripolism live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43302206-tripolism-at-soluna?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
-    },
-    {
-      "title": "Vicetone",
-      "date": "2026-07-10",
-      "venue": "Dprtmnt",
-      "description": "Vicetone live in Toronto. Follow the source for times, age restrictions and tickets.",
-      "url": "https://www.songkick.com/concerts/43228620-vicetone-at-dprtmnt?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all"
     },
     {
       "title": "Cavendish Beach Music Festival 2026",
