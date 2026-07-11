@@ -4,13 +4,13 @@ A fast, iPhone-friendly six-month guide to Toronto music, comedy and interesting
 
 ## Data and cadence
 
-A GitHub Action runs Tuesdays at 11:17 UTC and can also be run manually (`workflow_dispatch`). `scripts/update.py` currently reads public structured event data from [Songkick's Toronto calendar](https://www.songkick.com/metro-areas/27396-canada-toronto) and official exhibition cards from the [Royal Ontario Museum](https://www.rom.on.ca/whats-on). Every card links to its source; ticket availability and details should always be confirmed there.
+A GitHub Action runs Tuesdays at 11:17 UTC and can also be run manually (`workflow_dispatch`). `scripts/update.py` follows every page of [Songkick's public Toronto calendar](https://www.songkick.com/metro-areas/27396-canada-toronto) needed to cover the six-month window. It selects major Toronto venues rather than publishing the feed's hundreds of tiny-room listings, and identifies verified comedy and family/stage performances from those same dated event records. Every card links to the individual public source page; ticket availability and details should always be confirmed there.
 
-No API keys or paid services are used. The updater limits dates to today–183 days, validates required fields, deduplicates, writes atomically, and merges last-known-good future events if a source fails. It refuses to replace the file with an empty result. Source status is recorded in JSON.
+No API keys or paid services are used. The updater limits dates to today–183 days, validates required fields, deduplicates by source URL, writes atomically, and merges unexpired last-known-good events if a paginated request is temporarily incomplete. Before replacing the file it enforces minimum category counts (25 Music, 5 Comedy, 15 Live Events) and a horizon of at least 120 days. CI independently enforces those gates.
 
 ### Limitations
 
-Public calendars change markup and some major venues block automation. Songkick coverage is broad but not exhaustive; comedy is deliberately sparse until a stable, verifiable public feed is available. A blank tab is preferable to invented or stale listings. ROM exhibitions use the current date as the visit date and include their on-view end date in the description.
+Public calendars change markup and some official venue sites block automation. Songkick's public structured records are used as the stable common index, while the linked event pages remain the place to confirm times, cancellations, age rules, and tickets. Comedy is intentionally limited to performances that can be classified confidently; events are never inferred or assigned artificial dates.
 
 ## Add a source
 

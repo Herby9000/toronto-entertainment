@@ -1,20 +1,32 @@
 #!/usr/bin/env python3
-import json,re,sys
-from datetime import date,timedelta
-from pathlib import Path
-r=Path(__file__).parents[1]; errors=[]
-for f in ['index.html','style.css','app.js','data/events.json','LICENSE','README.md']:
- if not (r/f).exists():errors.append('missing '+f)
-try:
- d=json.loads((r/'data/events.json').read_text()); ev=d['events']; keys={'title','date','venue','description','url','category','audience'};seen=set(); hi=date.today()+timedelta(days=183)
- for i,e in enumerate(ev):
-  if not keys<=e.keys():errors.append(f'event {i} missing fields');continue
-  day=date.fromisoformat(e['date']); key=(e['title'].lower(),e['date'],e['venue'].lower())
-  if not date.today()<=day<=hi:errors.append(f'event {i} out of range')
-  if key in seen:errors.append(f'event {i} duplicate')
-  seen.add(key)
-  if not re.match(r'https://',e['url']):errors.append(f'event {i} insecure source')
-except Exception as e:errors.append(str(e))
-if errors: print('\n'.join('FAIL '+x for x in errors));sys.exit(1)
+import json, re, sys
 from collections import Counter
-print(f'PASS: {len(ev)} valid unique events in six-month horizon');print('Counts:',dict(Counter(x['category'] for x in ev)))
+from datetime import date, timedelta
+from pathlib import Path
+
+root = Path(__file__).parents[1]
+errors = []
+for name in ("index.html", "style.css", "app.js", "data/events.json", "LICENSE", "README.md"):
+    if not (root / name).exists(): errors.append("missing " + name)
+try:
+    doc = json.loads((root / "data/events.json").read_text())
+    events = doc["events"]
+    required = {"title", "date", "venue", "description", "url", "category", "audience", "source"}
+    seen = set(); hi = date.today() + timedelta(days=183)
+    for i, event in enumerate(events):
+        if not required <= event.keys(): errors.append(f"event {i} missing fields"); continue
+        day = date.fromisoformat(event["date"])
+        if not date.today() <= day <= hi: errors.append(f"event {i} out of range")
+        if event["url"] in seen: errors.append(f"event {i} duplicate source URL")
+        seen.add(event["url"])
+        if not re.match(r"https://", event["url"]): errors.append(f"event {i} insecure source")
+    counts = Counter(e["category"] for e in events)
+    for category, minimum in {"Music": 25, "Comedy": 5, "Live Events": 15}.items():
+        if counts[category] < minimum: errors.append(f"{category} has {counts[category]}, needs {minimum}")
+    horizon = (max(date.fromisoformat(e["date"]) for e in events) - date.today()).days
+    if horizon < 120: errors.append(f"calendar horizon is only {horizon} days")
+except Exception as exc:
+    errors.append(str(exc))
+if errors:
+    print("\n".join("FAIL " + error for error in errors)); sys.exit(1)
+print(f"PASS: {len(events)} unique sourced events; counts={dict(counts)}; horizon={horizon} days")
