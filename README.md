@@ -4,9 +4,9 @@ A fast, iPhone-friendly six-month guide to Toronto music, comedy and interesting
 
 ## Data and cadence
 
-A GitHub Action runs Tuesdays at 11:17 UTC and can also be run manually (`workflow_dispatch`). `scripts/update.py` follows every page of [Songkick's public Toronto calendar](https://www.songkick.com/metro-areas/27396-canada-toronto) needed to cover the six-month window. It selects major Toronto venues rather than publishing the feed's hundreds of tiny-room listings, and identifies verified comedy and family/stage performances from those same dated event records. Every card links to the individual public source page; ticket availability and details should always be confirmed there.
+A GitHub Action runs daily at 11:17 UTC and can also be run manually (`workflow_dispatch`). `scripts/update.py` follows every page of [Songkick's public Toronto calendar](https://www.songkick.com/metro-areas/27396-canada-toronto) needed to cover the six-month window. It selects major Toronto venues rather than publishing the feed's hundreds of tiny-room listings, and identifies verified comedy and family/stage performances from those same dated event records. Every card links to the individual source listing. The browser independently removes events before the current Toronto calendar day on every page load, so yesterday's listings disappear at local midnight even before the next data refresh.
 
-No API keys or paid services are used. The updater limits dates to today–183 days, validates required fields, deduplicates by source URL, writes atomically, and merges unexpired last-known-good events if a paginated request is temporarily incomplete. Before replacing the file it enforces minimum category counts (25 Music, 5 Comedy, 15 Live Events) and a horizon of at least 120 days. CI independently enforces those gates.
+No API keys or paid services are used. The updater limits dates to today–183 days, validates required fields, deduplicates by source URL, writes atomically, and merges unexpired last-known-good events if a paginated request is temporarily incomplete. Before replacing the file it enforces minimum category counts (25 Music, 3 Comedy, 10 Live Events) and a horizon of at least 120 days. CI independently enforces those gates.
 
 ### Limitations
 

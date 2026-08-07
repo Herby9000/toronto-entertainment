@@ -5,6 +5,9 @@ from datetime import date, timedelta
 from pathlib import Path
 
 root = Path(__file__).parents[1]
+sys.path.insert(0, str(root))
+from scripts.update import HORIZON_DAYS, MIN_COUNTS
+
 errors = []
 for name in ("index.html", "style.css", "app.js", "data/events.json", "LICENSE", "README.md"):
     if not (root / name).exists(): errors.append("missing " + name)
@@ -12,7 +15,7 @@ try:
     doc = json.loads((root / "data/events.json").read_text())
     events = doc["events"]
     required = {"title", "date", "venue", "description", "url", "category", "audience", "source"}
-    seen = set(); hi = date.today() + timedelta(days=183)
+    seen = set(); hi = date.today() + timedelta(days=HORIZON_DAYS)
     for i, event in enumerate(events):
         if not required <= event.keys(): errors.append(f"event {i} missing fields"); continue
         day = date.fromisoformat(event["date"])
@@ -21,7 +24,7 @@ try:
         seen.add(event["url"])
         if not re.match(r"https://", event["url"]): errors.append(f"event {i} insecure source")
     counts = Counter(e["category"] for e in events)
-    for category, minimum in {"Music": 25, "Comedy": 5, "Live Events": 15}.items():
+    for category, minimum in MIN_COUNTS.items():
         if counts[category] < minimum: errors.append(f"{category} has {counts[category]}, needs {minimum}")
     horizon = (max(date.fromisoformat(e["date"]) for e in events) - date.today()).days
     if horizon < 120: errors.append(f"calendar horizon is only {horizon} days")

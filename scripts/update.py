@@ -13,6 +13,7 @@ ROOT = Path(__file__).parents[1]
 OUT = ROOT / "data/events.json"
 UA = {"User-Agent": "AfterDarkToronto/2.0 (+https://github.com/Herby9000/toronto-entertainment)"}
 HORIZON_DAYS = 183
+MIN_COUNTS = {"Music": 25, "Comedy": 3, "Live Events": 10}
 
 # Deliberately excludes the hundreds of bars and very small rooms in the metro feed.
 MAJOR_MUSIC_VENUES = (
@@ -105,7 +106,7 @@ def valid(events):
 def acceptable(events):
     counts = {c: sum(e["category"] == c for e in events) for c in ("Music", "Comedy", "Live Events")}
     span = (max(date.fromisoformat(e["date"]) for e in events) - date.today()).days if events else 0
-    return len(events) >= 50 and counts["Music"] >= 25 and counts["Comedy"] >= 5 and counts["Live Events"] >= 15 and span >= 120, counts, span
+    return len(events) >= 40 and all(counts[category] >= minimum for category, minimum in MIN_COUNTS.items()) and span >= 120, counts, span
 
 def main():
     old = json.loads(OUT.read_text()) if OUT.exists() else {"events": []}

@@ -1,626 +1,6 @@
 {
-  "updated": "2026-07-14T16:04:02.150875+00:00",
+  "updated": "2026-08-07T22:31:49.240719+00:00",
   "events": [
-    {
-      "title": "JACK WHITE LIVE 2026",
-      "date": "2026-07-14",
-      "venue": "RBC Amphitheatre",
-      "description": "JACK WHITE LIVE 2026 live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/festivals/3780001-jack-white-live/id/43150977-jack-white-live-2026?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The All-American Rejects",
-      "date": "2026-07-14",
-      "venue": "The Theatre at Great Canadian Resort & Casino",
-      "description": "The All-American Rejects live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43105202-allamerican-rejects-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Buddy Guy",
-      "date": "2026-07-15",
-      "venue": "Massey Hall",
-      "description": "Buddy Guy live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43042415-buddy-guy-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Lucy Dacus",
-      "date": "2026-07-15",
-      "venue": "Queen Elizabeth Theatre",
-      "description": "Lucy Dacus live at Queen Elizabeth Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43100772-lucy-dacus-at-queen-elizabeth-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Muse",
-      "date": "2026-07-15",
-      "venue": "RBC Amphitheatre",
-      "description": "Muse live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43127760-muse-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Poppy",
-      "date": "2026-07-15",
-      "venue": "History",
-      "description": "Poppy live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43052040-poppy-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "LP Giobbi",
-      "date": "2026-07-16",
-      "venue": "Opera House",
-      "description": "LP Giobbi live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43289467-lp-giobbi-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tim McGraw",
-      "date": "2026-07-16",
-      "venue": "RBC Amphitheatre",
-      "description": "Tim McGraw live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43023323-tim-mcgraw-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Chris Lake",
-      "date": "2026-07-17",
-      "venue": "RBC Amphitheatre",
-      "description": "Chris Lake live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43098461-chris-lake-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Goldfinger",
-      "date": "2026-07-17",
-      "venue": "History",
-      "description": "Goldfinger live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42998313-goldfinger-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Josh Johnson (Comedian)",
-      "date": "2026-07-17",
-      "venue": "Massey Hall",
-      "description": "Josh Johnson (Comedian), live in Toronto. Confirm performance time and tickets at the linked listing.",
-      "url": "https://www.songkick.com/concerts/43081240-josh-johnson-comedian-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Comedy",
-      "audience": "date",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Louis Tomlinson",
-      "date": "2026-07-17",
-      "venue": "Scotiabank Arena",
-      "description": "Louis Tomlinson live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42817721-louis-tomlinson-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Billy Talent",
-      "date": "2026-07-18",
-      "venue": "RBC Amphitheatre",
-      "description": "Billy Talent live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43009859-billy-talent-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Josh Johnson (Comedian)",
-      "date": "2026-07-18",
-      "venue": "Massey Hall",
-      "description": "Josh Johnson (Comedian), live in Toronto. Confirm performance time and tickets at the linked listing.",
-      "url": "https://www.songkick.com/concerts/43081241-josh-johnson-comedian-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Comedy",
-      "audience": "date",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Souls of Mischief",
-      "date": "2026-07-18",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Souls of Mischief live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43151020-souls-of-mischief-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Young Jonn",
-      "date": "2026-07-18",
-      "venue": "Queen Elizabeth Theatre",
-      "description": "Young Jonn live at Queen Elizabeth Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43255224-young-jonn-at-queen-elizabeth-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Death Cab for Cutie",
-      "date": "2026-07-19",
-      "venue": "RBC Amphitheatre",
-      "description": "Death Cab for Cutie live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43004209-death-cab-for-cutie-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Josh Johnson (Comedian)",
-      "date": "2026-07-19",
-      "venue": "Massey Hall",
-      "description": "Josh Johnson (Comedian), live in Toronto. Confirm performance time and tickets at the linked listing.",
-      "url": "https://www.songkick.com/concerts/43081246-josh-johnson-comedian-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Comedy",
-      "audience": "date",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Josh Johnson (Comedian)",
-      "date": "2026-07-19",
-      "venue": "Massey Hall",
-      "description": "Josh Johnson (Comedian), live in Toronto. Confirm performance time and tickets at the linked listing.",
-      "url": "https://www.songkick.com/concerts/43191786-josh-johnson-comedian-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Comedy",
-      "audience": "date",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Ive",
-      "date": "2026-07-21",
-      "venue": "Scotiabank Arena",
-      "description": "Ive live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43124771-ive-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Black Crowes",
-      "date": "2026-07-21",
-      "venue": "RBC Amphitheatre",
-      "description": "The Black Crowes live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43014657-black-crowes-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Mötley Crüe",
-      "date": "2026-07-22",
-      "venue": "RBC Amphitheatre",
-      "description": "Mötley Crüe live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42897329-motley-crue-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tafari Anthony",
-      "date": "2026-07-22",
-      "venue": "The Second City Toronto",
-      "description": "Tafari Anthony, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43309352-tafari-anthony-at-second-city-toronto?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Hatebreed",
-      "date": "2026-07-23",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Hatebreed live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43121159-hatebreed-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Afrikaans is Lekker 2026",
-      "date": "2026-07-24",
-      "venue": "Jane Mallett Theatre",
-      "description": "Afrikaans is Lekker 2026, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/festivals/2552764-afrikaans-is-lekker/id/42983248-afrikaans-is-lekker-2026?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Finn Wolfhard",
-      "date": "2026-07-24",
-      "venue": "Opera House",
-      "description": "Finn Wolfhard live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43198485-finn-wolfhard-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Mon Laferte",
-      "date": "2026-07-25",
-      "venue": "Massey Hall",
-      "description": "Mon Laferte live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43121181-mon-laferte-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tame Impala",
-      "date": "2026-07-25",
-      "venue": "Scotiabank Arena",
-      "description": "Tame Impala live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43044304-tame-impala-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "311",
-      "date": "2026-07-26",
-      "venue": "RBC Amphitheatre",
-      "description": "311 live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43118588-311-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Herbie Hancock",
-      "date": "2026-07-26",
-      "venue": "Massey Hall",
-      "description": "Herbie Hancock live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43093817-herbie-hancock-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tame Impala",
-      "date": "2026-07-26",
-      "venue": "Scotiabank Arena",
-      "description": "Tame Impala live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43044307-tame-impala-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "J. Cole",
-      "date": "2026-07-27",
-      "venue": "Scotiabank Arena",
-      "description": "J. Cole live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43049849-j-cole-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "J. Cole",
-      "date": "2026-07-28",
-      "venue": "Scotiabank Arena",
-      "description": "J. Cole live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43052077-j-cole-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Styx",
-      "date": "2026-07-28",
-      "venue": "RBC Amphitheatre",
-      "description": "Styx live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42916323-styx-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Ones",
-      "date": "2026-07-28",
-      "venue": "Princess of Wales Theatre",
-      "description": "The Ones, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43231729-ones-at-princess-of-wales-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Karol G",
-      "date": "2026-07-29",
-      "venue": "Rogers Stadium",
-      "description": "Karol G live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43203831-karol-g-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Ones",
-      "date": "2026-07-29",
-      "venue": "Princess of Wales Theatre",
-      "description": "The Ones, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43231732-ones-at-princess-of-wales-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Ones",
-      "date": "2026-07-29",
-      "venue": "Princess of Wales Theatre",
-      "description": "The Ones, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43231733-ones-at-princess-of-wales-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Lynyrd Skynyrd",
-      "date": "2026-07-30",
-      "venue": "RBC Amphitheatre",
-      "description": "Lynyrd Skynyrd live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42894160-lynyrd-skynyrd-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Ones",
-      "date": "2026-07-30",
-      "venue": "Princess of Wales Theatre",
-      "description": "The Ones, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43231734-ones-at-princess-of-wales-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Wunderhorse",
-      "date": "2026-07-30",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Wunderhorse live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43106878-wunderhorse-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Greeicy",
-      "date": "2026-07-31",
-      "venue": "History",
-      "description": "Greeicy live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43184380-greeicy-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Ne-Yo",
-      "date": "2026-07-31",
-      "venue": "RBC Amphitheatre",
-      "description": "Ne-Yo live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43012396-neyo-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Ne-Yo",
-      "date": "2026-08-01",
-      "venue": "RBC Amphitheatre",
-      "description": "Ne-Yo live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43107895-neyo-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "R&B ONLY FEST 2026",
-      "date": "2026-08-01",
-      "venue": "History",
-      "description": "R&B ONLY FEST 2026 live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/festivals/3426360-rb-only-fest/id/43315452-rb-only-fest-2026?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "R&B ONLY LIVE",
-      "date": "2026-08-01",
-      "venue": "History",
-      "description": "R&B ONLY LIVE live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43311566-r-and-b-only-live-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Ones",
-      "date": "2026-08-01",
-      "venue": "Princess of Wales Theatre",
-      "description": "The Ones, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43231741-ones-at-princess-of-wales-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Ones",
-      "date": "2026-08-01",
-      "venue": "Princess of Wales Theatre",
-      "description": "The Ones, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43231742-ones-at-princess-of-wales-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Faye Webster",
-      "date": "2026-08-02",
-      "venue": "Scotiabank Arena",
-      "description": "Faye Webster live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43134473-faye-webster-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Five Finger Death Punch",
-      "date": "2026-08-02",
-      "venue": "RBC Amphitheatre",
-      "description": "Five Finger Death Punch live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42985908-five-finger-death-punch-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Viagra Boys",
-      "date": "2026-08-02",
-      "venue": "History",
-      "description": "Viagra Boys live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43107848-viagra-boys-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Daniel Caesar",
-      "date": "2026-08-03",
-      "venue": "Scotiabank Arena",
-      "description": "Daniel Caesar live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43139601-daniel-caesar-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Foo Fighters",
-      "date": "2026-08-04",
-      "venue": "Rogers Stadium",
-      "description": "Foo Fighters live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42853071-foo-fighters-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "OLIVIA DEAN",
-      "date": "2026-08-04",
-      "venue": "Scotiabank Arena",
-      "description": "OLIVIA DEAN live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42890821-olivia-dean-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Old Crow Medicine Show",
-      "date": "2026-08-04",
-      "venue": "History",
-      "description": "Old Crow Medicine Show live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43289515-old-crow-medicine-show-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Train",
-      "date": "2026-08-04",
-      "venue": "Budweiser Stage & Rbc Echo Beach",
-      "description": "Train live at Budweiser Stage & Rbc Echo Beach. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42881506-train-at-budweiser-stage-and-rbc-echo-beach?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "5 Seconds of Summer",
-      "date": "2026-08-05",
-      "venue": "RBC Amphitheatre",
-      "description": "5 Seconds of Summer live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42854165-5-seconds-of-summer-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Guns N' Roses",
-      "date": "2026-08-05",
-      "venue": "Rogers Stadium",
-      "description": "Guns N' Roses live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42905588-guns-n-roses-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "OLIVIA DEAN",
-      "date": "2026-08-05",
-      "venue": "Scotiabank Arena",
-      "description": "OLIVIA DEAN live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42897361-olivia-dean-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Qveen Herby",
-      "date": "2026-08-05",
-      "venue": "History",
-      "description": "Qveen Herby live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43012434-qveen-herby-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Avenged Sevenfold",
-      "date": "2026-08-06",
-      "venue": "RBC Amphitheatre",
-      "description": "Avenged Sevenfold live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42935516-avenged-sevenfold-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Big Thief",
-      "date": "2026-08-06",
-      "venue": "Meridian Hall",
-      "description": "Big Thief live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43094171-big-thief-at-meridian-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Metric",
       "date": "2026-08-07",
@@ -657,16 +37,6 @@
       "venue": "Queen Elizabeth Theatre",
       "description": "Killswitch Engage live at Queen Elizabeth Theatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43163043-killswitch-engage-at-queen-elizabeth-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tha Alkaholiks",
-      "date": "2026-08-08",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Tha Alkaholiks live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43289492-tha-alkaholiks-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -897,6 +267,16 @@
       "venue": "RBC Amphitheatre",
       "description": "Simple Plan live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43040148-simple-plan-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Early James",
+      "date": "2026-08-21",
+      "venue": "Danforth Music Hall",
+      "description": "Early James live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43339334-early-james-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -1742,6 +1122,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Saint Levant",
+      "date": "2026-09-16",
+      "venue": "History",
+      "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43328399-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Sara Bareilles",
       "date": "2026-09-16",
       "venue": "Massey Hall",
@@ -1797,6 +1187,16 @@
       "venue": "RBC Amphitheatre",
       "description": "Of Monsters and Men live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43311546-of-monsters-and-men-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Saint Levant",
+      "date": "2026-09-17",
+      "venue": "History",
+      "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43328386-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -1957,6 +1357,16 @@
       "venue": "RBC Amphitheatre",
       "description": "Staind live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43026030-staind-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Amigo the Devil",
+      "date": "2026-09-22",
+      "venue": "Danforth Music Hall",
+      "description": "Amigo the Devil live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43333131-amigo-the-devil-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -2182,6 +1592,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Disney",
+      "date": "2026-09-27",
+      "venue": "The Bowl at Sobeys Stadium",
+      "description": "Disney, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43296386-disney-at-bowl-at-sobeys-stadium?utm_medium=organic&utm_source=microformat",
+      "category": "Live Events",
+      "audience": "family",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "G-Eazy",
       "date": "2026-09-27",
       "venue": "RBC Amphitheatre",
@@ -2217,6 +1637,16 @@
       "venue": "History",
       "description": "Malcolm Todd live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43262037-malcolm-todd-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Kylie Cantrall",
+      "date": "2026-09-29",
+      "venue": "Queen Elizabeth Theatre",
+      "description": "Kylie Cantrall live at Queen Elizabeth Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43354319-kylie-cantrall-at-queen-elizabeth-theatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -2492,6 +1922,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "ARTMS",
+      "date": "2026-10-05",
+      "venue": "Danforth Music Hall",
+      "description": "ARTMS live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43328400-artms-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Caroline Rose",
       "date": "2026-10-05",
       "venue": "Meridian Hall",
@@ -2632,6 +2072,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Baby J",
+      "date": "2026-10-08",
+      "venue": "Opera House",
+      "description": "Baby J live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43341407-baby-j-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Bahamas",
       "date": "2026-10-08",
       "venue": "Massey Hall",
@@ -2699,6 +2149,16 @@
       "url": "https://www.songkick.com/concerts/43209821-buffalo-traffic-jam-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Live Events",
       "audience": "family",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "NOTD",
+      "date": "2026-10-09",
+      "venue": "Opera House",
+      "description": "NOTD live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43330265-notd-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
       "source": "Songkick Toronto calendar"
     },
     {
@@ -2807,6 +2267,16 @@
       "venue": "Massey Hall",
       "description": "Beck live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43170024-beck-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Cradle of Filth",
+      "date": "2026-10-14",
+      "venue": "Opera House",
+      "description": "Cradle of Filth live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43322855-cradle-of-filth-at-opera-house?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -2982,6 +2452,26 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Mike D (US)",
+      "date": "2026-10-20",
+      "venue": "History",
+      "description": "Mike D (US) live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43329734-mike-d-us-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Rebecca Black",
+      "date": "2026-10-21",
+      "venue": "Danforth Music Hall",
+      "description": "Rebecca Black live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43330189-rebecca-black-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Alex Edelman",
       "date": "2026-10-22",
       "venue": "Winter Garden Theatre",
@@ -3007,6 +2497,16 @@
       "venue": "Danforth Music Hall",
       "description": "Plini live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43251594-plini-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "The Tallest Man On Earth",
+      "date": "2026-10-23",
+      "venue": "Massey Hall",
+      "description": "The Tallest Man On Earth live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43342255-tallest-man-on-earth-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3062,21 +2562,21 @@
       "source": "Songkick Toronto calendar"
     },
     {
-      "title": "Blondshell",
-      "date": "2026-10-27",
+      "title": "Quadeca",
+      "date": "2026-10-26",
       "venue": "Danforth Music Hall",
-      "description": "Blondshell live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43220929-blondshell-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "description": "Quadeca live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43336625-quadeca-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
     },
     {
-      "title": "Horsegiirl",
+      "title": "Blondshell",
       "date": "2026-10-27",
-      "venue": "History",
-      "description": "Horsegiirl live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43201536-horsegiirl-at-history?utm_medium=organic&utm_source=microformat",
+      "venue": "Danforth Music Hall",
+      "description": "Blondshell live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43220929-blondshell-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3097,6 +2597,26 @@
       "venue": "Coca-Cola Coliseum",
       "description": "Rawayana live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43105210-rawayana-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Tyler Braden",
+      "date": "2026-10-27",
+      "venue": "Opera House",
+      "description": "Tyler Braden live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43341431-tyler-braden-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "horsegiirL",
+      "date": "2026-10-27",
+      "venue": "History",
+      "description": "horsegiirL live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43201536-horsegiirl-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3282,11 +2802,31 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "The Dresden Dolls",
+      "date": "2026-11-01",
+      "venue": "Queen Elizabeth Theatre",
+      "description": "The Dresden Dolls live at Queen Elizabeth Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43213135-dresden-dolls-at-queen-elizabeth-theatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Amble",
       "date": "2026-11-02",
       "venue": "History",
       "description": "Amble live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43195299-amble-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Sueco",
+      "date": "2026-11-02",
+      "venue": "Opera House",
+      "description": "Sueco live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43322820-sueco-at-opera-house?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3327,6 +2867,16 @@
       "venue": "Scotiabank Arena",
       "description": "Journey live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43293854-journey-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Shyne",
+      "date": "2026-11-04",
+      "venue": "Danforth Music Hall",
+      "description": "Shyne live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43341373-shyne-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3427,6 +2977,16 @@
       "venue": "Massey Hall",
       "description": "Palace live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43175619-palace-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Willie J Healey",
+      "date": "2026-11-08",
+      "venue": "Massey Hall",
+      "description": "Willie J Healey live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43328396-willie-j-healey-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3592,6 +3152,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Orville Peck",
+      "date": "2026-11-17",
+      "venue": "History",
+      "description": "Orville Peck live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43338682-orville-peck-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Slaughter To Prevail: North America 2026",
       "date": "2026-11-17",
       "venue": "The Theatre at Great Canadian Resort & Casino",
@@ -3607,6 +3177,16 @@
       "venue": "Danforth Music Hall",
       "description": "Dweezil Zappa live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43251624-dweezil-zappa-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jorja Smith",
+      "date": "2026-11-18",
+      "venue": "Massey Hall",
+      "description": "Jorja Smith live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43353418-jorja-smith-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3667,6 +3247,16 @@
       "venue": "History",
       "description": "Gryffin live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43242521-gryffin-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Inna",
+      "date": "2026-11-20",
+      "venue": "Queen Elizabeth Theatre",
+      "description": "Inna live at Queen Elizabeth Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43327927-inna-at-queen-elizabeth-theatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3777,6 +3367,16 @@
       "venue": "Danforth Music Hall",
       "description": "Default live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43261956-default-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Tyla",
+      "date": "2026-11-26",
+      "venue": "Coca-Cola Coliseum",
+      "description": "Tyla live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43341432-tyla-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3952,6 +3552,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "David Archuleta",
+      "date": "2026-12-09",
+      "venue": "Danforth Music Hall",
+      "description": "David Archuleta live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43351398-david-archuleta-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "The Linda Lindas",
       "date": "2026-12-10",
       "venue": "Danforth Music Hall",
@@ -3977,6 +3587,16 @@
       "venue": "Danforth Music Hall",
       "description": "Jamie Fine live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43211521-jamie-fine-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Tha Alkaholiks",
+      "date": "2026-12-11",
+      "venue": "Phoenix Concert Theatre",
+      "description": "Tha Alkaholiks live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43289492-tha-alkaholiks-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -4047,6 +3667,46 @@
       "venue": "Danforth Music Hall",
       "description": "Skydiggers live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43289420-skydiggers-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "The Musical Box",
+      "date": "2027-01-29",
+      "venue": "Danforth Music Hall",
+      "description": "The Musical Box live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/42998283-musical-box-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "French 79",
+      "date": "2027-02-03",
+      "venue": "Danforth Music Hall",
+      "description": "French 79 live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43158882-french-79-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Patrick Watson",
+      "date": "2027-02-04",
+      "venue": "Meridian Hall",
+      "description": "Patrick Watson live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43224924-patrick-watson-at-meridian-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Beverly Glenn-Copeland",
+      "date": "2027-02-05",
+      "venue": "Danforth Music Hall",
+      "description": "Beverly Glenn-Copeland live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43277255-beverly-glenncopeland-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
