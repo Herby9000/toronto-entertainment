@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-07T22:34:19.329245+00:00",
+  "updated": "2026-08-08T11:43:23.500098+00:00",
   "events": [
-    {
-      "title": "Metric",
-      "date": "2026-08-07",
-      "venue": "RBC Amphitheatre",
-      "description": "Metric live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43023915-metric-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Rush",
-      "date": "2026-08-07",
-      "venue": "Scotiabank Arena",
-      "description": "Rush live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42833367-rush-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "American Football",
       "date": "2026-08-08",
