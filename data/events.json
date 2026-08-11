@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-10T11:59:10.937928+00:00",
+  "updated": "2026-08-11T11:56:59.834951+00:00",
   "events": [
-    {
-      "title": "Dimmu Borgir",
-      "date": "2026-08-10",
-      "venue": "History",
-      "description": "Dimmu Borgir live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43156703-dimmu-borgir-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Rush",
       "date": "2026-08-11",
@@ -3407,6 +3397,16 @@
       "venue": "Massey Hall",
       "description": "Moneen live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43264152-moneen-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Venna (UK)",
+      "date": "2026-11-28",
+      "venue": "Opera House",
+      "description": "Venna (UK) live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43361858-venna-uk-at-opera-house?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
