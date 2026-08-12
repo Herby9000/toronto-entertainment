@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-11T11:56:59.834951+00:00",
+  "updated": "2026-08-12T11:58:45.315594+00:00",
   "events": [
-    {
-      "title": "Rush",
-      "date": "2026-08-11",
-      "venue": "Scotiabank Arena",
-      "description": "Rush live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42833374-rush-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Usher",
-      "date": "2026-08-11",
-      "venue": "Rogers Stadium",
-      "description": "Usher live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43158886-usher-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Hilary Duff",
       "date": "2026-08-12",
@@ -2102,6 +2082,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "All The Feels R&B 2026",
+      "date": "2026-10-10",
+      "venue": "Opera House",
+      "description": "All The Feels R&B 2026 live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/festivals/3683315-all-the-feels-rb/id/43361850-all-the-feels-rb-2026?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Buffalo Traffic Jam",
       "date": "2026-10-10",
       "venue": "Danforth Music Hall",
@@ -3172,6 +3162,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Rishab Rikhiram Sharma",
+      "date": "2026-11-19",
+      "venue": "The Theatre at Great Canadian Resort & Casino",
+      "description": "Rishab Rikhiram Sharma live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43362520-rishab-rikhiram-sharma-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Blackie And The Rodeo Kings",
       "date": "2026-11-20",
       "venue": "Danforth Music Hall",
@@ -3207,6 +3207,16 @@
       "venue": "History",
       "description": "Gryffin live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43256554-gryffin-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Protest the Hero",
+      "date": "2026-11-21",
+      "venue": "Opera House",
+      "description": "Protest the Hero live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43363710-protest-the-hero-at-opera-house?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
