@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-12T11:58:45.315594+00:00",
+  "updated": "2026-08-13T12:00:05.038930+00:00",
   "events": [
-    {
-      "title": "Hilary Duff",
-      "date": "2026-08-12",
-      "venue": "RBC Amphitheatre",
-      "description": "Hilary Duff live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43044269-hilary-duff-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Usher",
-      "date": "2026-08-12",
-      "venue": "Rogers Stadium",
-      "description": "Usher live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43158880-usher-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Hilary Duff",
       "date": "2026-08-13",
@@ -459,6 +439,16 @@
       "url": "https://www.songkick.com/concerts/42880784-wiggles-at-meridian-hall?utm_medium=organic&utm_source=microformat",
       "category": "Live Events",
       "audience": "family",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Ammy Virk",
+      "date": "2026-08-30",
+      "venue": "The Theatre at Great Canadian Resort & Casino",
+      "description": "Ammy Virk live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43347109-ammy-virk-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
       "source": "Songkick Toronto calendar"
     },
     {
@@ -1902,6 +1892,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Steve Lacy",
+      "date": "2026-10-05",
+      "venue": "Coca-Cola Coliseum",
+      "description": "Steve Lacy live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43365661-steve-lacy-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Teddy Swims",
       "date": "2026-10-05",
       "venue": "Scotiabank Arena",
@@ -2077,6 +2077,16 @@
       "venue": "Opera House",
       "description": "NOTD live at Opera House. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43330265-notd-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "All The Feels",
+      "date": "2026-10-10",
+      "venue": "Opera House",
+      "description": "All The Feels live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43364669-all-the-feels-at-opera-house?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3417,6 +3427,16 @@
       "venue": "Opera House",
       "description": "Venna (UK) live at Opera House. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43361858-venna-uk-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jubin nautiyal",
+      "date": "2026-11-29",
+      "venue": "The Theatre at Great Canadian Resort & Casino",
+      "description": "Jubin nautiyal live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43365630-jubin-nautiyal-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
