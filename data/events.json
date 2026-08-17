@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-16T11:34:27.791147+00:00",
+  "updated": "2026-08-17T11:41:05.032554+00:00",
   "events": [
-    {
-      "title": "Chance the Rapper",
-      "date": "2026-08-16",
-      "venue": "History",
-      "description": "Chance the Rapper live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43217564-chance-the-rapper-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Kehlani",
-      "date": "2026-08-16",
-      "venue": "RBC Amphitheatre",
-      "description": "Kehlani live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43237301-kehlani-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Chance Peña",
       "date": "2026-08-17",
@@ -2512,6 +2492,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Waylon Wyatt",
+      "date": "2026-10-28",
+      "venue": "Danforth Music Hall",
+      "description": "Waylon Wyatt live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43370247-waylon-wyatt-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "strongboi",
       "date": "2026-10-28",
       "venue": "Phoenix Concert Theatre",
@@ -3257,6 +3247,16 @@
       "venue": "Danforth Music Hall",
       "description": "Default live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43261956-default-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "FAFA",
+      "date": "2026-11-26",
+      "venue": "Scotiabank Arena",
+      "description": "FAFA live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43370182-fafa-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
