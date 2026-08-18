@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-17T11:41:05.032554+00:00",
+  "updated": "2026-08-18T11:41:40.026696+00:00",
   "events": [
-    {
-      "title": "Chance Peña",
-      "date": "2026-08-17",
-      "venue": "History",
-      "description": "Chance Peña live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42919050-chance-pena-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Deep Purple",
       "date": "2026-08-18",
@@ -1447,6 +1437,16 @@
       "venue": "Scotiabank Arena",
       "description": "Rahat Fateh Ali Khan live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43264151-rahat-fateh-ali-khan-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jonas Brothers",
+      "date": "2026-09-28",
+      "venue": "RBC Amphitheatre",
+      "description": "Jonas Brothers live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43371677-jonas-brothers-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3402,6 +3402,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Lucy Bedroque",
+      "date": "2026-12-04",
+      "venue": "Danforth Music Hall",
+      "description": "Lucy Bedroque live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43370907-lucy-bedroque-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Matt Dusk",
       "date": "2026-12-04",
       "venue": "Elgin & Winter Garden Theatre Centre",
@@ -3617,6 +3627,16 @@
       "venue": "Danforth Music Hall",
       "description": "Beverly Glenn-Copeland live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43277255-beverly-glenncopeland-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Don Omar",
+      "date": "2027-02-17",
+      "venue": "Scotiabank Arena",
+      "description": "Don Omar live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43285858-don-omar-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
