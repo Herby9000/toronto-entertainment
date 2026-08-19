@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-18T11:41:40.026696+00:00",
+  "updated": "2026-08-19T11:40:25.817909+00:00",
   "events": [
-    {
-      "title": "Deep Purple",
-      "date": "2026-08-18",
-      "venue": "RBC Amphitheatre",
-      "description": "Deep Purple live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43131566-deep-purple-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Eagles of Death Metal",
-      "date": "2026-08-18",
-      "venue": "Danforth Music Hall",
-      "description": "Eagles of Death Metal live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43121087-eagles-of-death-metal-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Jack Harlow",
-      "date": "2026-08-18",
-      "venue": "History",
-      "description": "Jack Harlow live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43122857-jack-harlow-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Faouzia",
       "date": "2026-08-19",
@@ -1992,6 +1962,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "PROSPA",
+      "date": "2026-10-09",
+      "venue": "History",
+      "description": "PROSPA live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43372903-prospa-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "All The Feels",
       "date": "2026-10-10",
       "venue": "Opera House",
@@ -3637,6 +3617,16 @@
       "venue": "Scotiabank Arena",
       "description": "Don Omar live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43285858-don-omar-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Gracie Abrams",
+      "date": "2027-02-18",
+      "venue": "Scotiabank Arena",
+      "description": "Gracie Abrams live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43242516-gracie-abrams-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
