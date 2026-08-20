@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-19T11:40:25.817909+00:00",
+  "updated": "2026-08-20T11:42:58.040410+00:00",
   "events": [
-    {
-      "title": "Faouzia",
-      "date": "2026-08-19",
-      "venue": "Danforth Music Hall",
-      "description": "Faouzia live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43168889-faouzia-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "China Crisis",
       "date": "2026-08-20",
@@ -2752,6 +2742,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Katy Nichole",
+      "date": "2026-11-05",
+      "venue": "Opera House",
+      "description": "Katy Nichole live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43375510-katy-nichole-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Justin Nozuka",
       "date": "2026-11-06",
       "venue": "Opera House",
@@ -3627,6 +3627,16 @@
       "venue": "Scotiabank Arena",
       "description": "Gracie Abrams live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43242516-gracie-abrams-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Gracie Abrams",
+      "date": "2027-02-19",
+      "venue": "Scotiabank Arena",
+      "description": "Gracie Abrams live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43242517-gracie-abrams-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
