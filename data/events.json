@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-20T11:42:58.040410+00:00",
+  "updated": "2026-08-21T11:42:19.988595+00:00",
   "events": [
-    {
-      "title": "China Crisis",
-      "date": "2026-08-20",
-      "venue": "Phoenix Concert Theatre",
-      "description": "China Crisis live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43156709-china-crisis-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Jutes",
-      "date": "2026-08-20",
-      "venue": "Danforth Music Hall",
-      "description": "Jutes live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43143975-jutes-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Simple Plan",
-      "date": "2026-08-20",
-      "venue": "RBC Amphitheatre",
-      "description": "Simple Plan live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43040148-simple-plan-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Early James",
       "date": "2026-08-21",
@@ -1892,16 +1862,6 @@
       "source": "Songkick Toronto calendar"
     },
     {
-      "title": "Jenny Berggren of Ace of Base",
-      "date": "2026-10-08",
-      "venue": "History",
-      "description": "Jenny Berggren of Ace of Base live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43110277-jenny-berggren-of-ace-of-base-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
       "title": "Lenny Pearce",
       "date": "2026-10-08",
       "venue": "Meridian Hall",
@@ -2027,6 +1987,16 @@
       "venue": "Phoenix Concert Theatre",
       "description": "Despised Icon live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43174288-despised-icon-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jenny Berggren of Ace of Base",
+      "date": "2026-10-11",
+      "venue": "History",
+      "description": "Jenny Berggren of Ace of Base live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43110277-jenny-berggren-of-ace-of-base-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
