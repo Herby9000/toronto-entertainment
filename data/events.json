@@ -1,56 +1,6 @@
 {
-  "updated": "2026-08-21T11:42:19.988595+00:00",
+  "updated": "2026-08-22T11:35:13.580254+00:00",
   "events": [
-    {
-      "title": "Early James",
-      "date": "2026-08-21",
-      "venue": "Danforth Music Hall",
-      "description": "Early James live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43339334-early-james-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "John Fogerty",
-      "date": "2026-08-21",
-      "venue": "The Theatre at Great Canadian Resort & Casino",
-      "description": "John Fogerty live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43156676-john-fogerty-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "PJ Morton",
-      "date": "2026-08-21",
-      "venue": "Queen Elizabeth Theatre",
-      "description": "PJ Morton live at Queen Elizabeth Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43170739-pj-morton-at-queen-elizabeth-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Swervedriver",
-      "date": "2026-08-21",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Swervedriver live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43211549-swervedriver-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Wallflowers",
-      "date": "2026-08-21",
-      "venue": "Danforth Music Hall",
-      "description": "The Wallflowers live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43118608-wallflowers-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Asake",
       "date": "2026-08-22",
@@ -2872,6 +2822,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Nia Archives",
+      "date": "2026-11-11",
+      "venue": "Opera House",
+      "description": "Nia Archives live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43378387-nia-archives-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Stella Lefty",
       "date": "2026-11-12",
       "venue": "Opera House",
@@ -3427,6 +3387,16 @@
       "venue": "Danforth Music Hall",
       "description": "David Archuleta live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43351398-david-archuleta-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Montell Fish",
+      "date": "2026-12-09",
+      "venue": "Phoenix Concert Theatre",
+      "description": "Montell Fish live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43378884-montell-fish-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
