@@ -1,46 +1,6 @@
 {
-  "updated": "2026-08-22T11:35:13.580254+00:00",
+  "updated": "2026-08-23T11:34:34.763663+00:00",
   "events": [
-    {
-      "title": "Asake",
-      "date": "2026-08-22",
-      "venue": "Scotiabank Arena",
-      "description": "Asake live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43237259-asake-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "BTS",
-      "date": "2026-08-22",
-      "venue": "Rogers Stadium",
-      "description": "BTS live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42987062-bts-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Charles Wesley Godwin",
-      "date": "2026-08-22",
-      "venue": "History",
-      "description": "Charles Wesley Godwin live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43225457-charles-wesley-godwin-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "HUGEL",
-      "date": "2026-08-22",
-      "venue": "RBC Amphitheatre",
-      "description": "HUGEL live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43215578-hugel-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "BTS",
       "date": "2026-08-23",
@@ -2497,6 +2457,16 @@
       "venue": "Massey Hall",
       "description": "Loreena McKennitt live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43009420-loreena-mckennitt-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Loreena McKennitt",
+      "date": "2026-10-31",
+      "venue": "Massey Hall",
+      "description": "Loreena McKennitt live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43379512-loreena-mckennitt-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
