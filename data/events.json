@@ -1,46 +1,6 @@
 {
-  "updated": "2026-08-23T11:34:34.763663+00:00",
+  "updated": "2026-08-24T11:44:16.035494+00:00",
   "events": [
-    {
-      "title": "BTS",
-      "date": "2026-08-23",
-      "venue": "Rogers Stadium",
-      "description": "BTS live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42987051-bts-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Helmet",
-      "date": "2026-08-23",
-      "venue": "History",
-      "description": "Helmet live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43239306-helmet-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Jimmy Eat World",
-      "date": "2026-08-23",
-      "venue": "RBC Amphitheatre",
-      "description": "Jimmy Eat World live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42995424-jimmy-eat-world-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Masoom Sharma",
-      "date": "2026-08-23",
-      "venue": "The Theatre at Great Canadian Resort & Casino",
-      "description": "Masoom Sharma live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43299675-masoom-sharma-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Kacey Musgraves",
       "date": "2026-08-24",
