@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-24T11:44:16.035494+00:00",
+  "updated": "2026-08-25T11:44:09.398673+00:00",
   "events": [
-    {
-      "title": "Kacey Musgraves",
-      "date": "2026-08-24",
-      "venue": "Scotiabank Arena",
-      "description": "Kacey Musgraves live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43185892-kacey-musgraves-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Citizen",
       "date": "2026-08-25",
@@ -277,16 +267,6 @@
       "venue": "Scotiabank Arena",
       "description": "Anirudh Ravichander live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43239279-anirudh-ravichander-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Houndmouth",
-      "date": "2026-09-05",
-      "venue": "History",
-      "description": "Houndmouth live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43178379-houndmouth-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -1742,6 +1722,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Sidhu Moose Wala",
+      "date": "2026-10-08",
+      "venue": "Scotiabank Arena",
+      "description": "Sidhu Moose Wala live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43381692-sidhu-moose-wala-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Tricky",
       "date": "2026-10-08",
       "venue": "Danforth Music Hall",
@@ -2342,6 +2332,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "The Sheepdogs",
+      "date": "2026-10-29",
+      "venue": "Phoenix Concert Theatre",
+      "description": "The Sheepdogs live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43381137-sheepdogs-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Kettama",
       "date": "2026-10-30",
       "venue": "History",
@@ -2772,6 +2772,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Tobiahs",
+      "date": "2026-11-13",
+      "venue": "Opera House",
+      "description": "Tobiahs live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43381683-tobiahs-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Half Moon Run",
       "date": "2026-11-14",
       "venue": "Meridian Hall",
@@ -3027,6 +3037,16 @@
       "venue": "Danforth Music Hall",
       "description": "Raine Maida live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43198504-raine-maida-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jessie Reyez",
+      "date": "2026-11-24",
+      "venue": "Coca-Cola Coliseum",
+      "description": "Jessie Reyez live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43381668-jessie-reyez-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3442,6 +3462,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Stella Lefty",
+      "date": "2027-01-12",
+      "venue": "History",
+      "description": "Stella Lefty live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43381695-stella-lefty-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "The Musical Box",
       "date": "2027-01-29",
       "venue": "Danforth Music Hall",
@@ -3477,6 +3507,16 @@
       "venue": "Danforth Music Hall",
       "description": "Beverly Glenn-Copeland live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43277255-beverly-glenncopeland-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Houndmouth",
+      "date": "2027-02-05",
+      "venue": "History",
+      "description": "Houndmouth live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43178379-houndmouth-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
