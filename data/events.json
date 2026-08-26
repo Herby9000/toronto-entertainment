@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-25T11:44:09.398673+00:00",
+  "updated": "2026-08-26T11:45:12.659618+00:00",
   "events": [
-    {
-      "title": "Citizen",
-      "date": "2026-08-25",
-      "venue": "Danforth Music Hall",
-      "description": "Citizen live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43183562-citizen-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Empire of the Sun",
-      "date": "2026-08-25",
-      "venue": "RBC Amphitheatre",
-      "description": "Empire of the Sun live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43093964-empire-of-the-sun-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "The Fray",
       "date": "2026-08-26",
@@ -2172,6 +2152,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "YEBBA",
+      "date": "2026-10-24",
+      "venue": "History",
+      "description": "YEBBA live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43383404-yebba-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "John Summit",
       "date": "2026-10-25",
       "venue": "Scotiabank Arena",
@@ -2762,6 +2752,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Bryce Alakai",
+      "date": "2026-11-12",
+      "venue": "History",
+      "description": "Bryce Alakai live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43383431-bryce-alakai-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Stella Lefty",
       "date": "2026-11-12",
       "venue": "Opera House",
@@ -3199,6 +3199,16 @@
       "url": "https://www.songkick.com/concerts/43296426-disney-at-meridian-hall?utm_medium=organic&utm_source=microformat",
       "category": "Live Events",
       "audience": "family",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Josh Baker",
+      "date": "2026-11-28",
+      "venue": "History",
+      "description": "Josh Baker live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43382895-josh-baker-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
       "source": "Songkick Toronto calendar"
     },
     {
