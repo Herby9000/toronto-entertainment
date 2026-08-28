@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-27T21:02:07.346824+00:00",
+  "updated": "2026-08-28T21:25:29.955851+00:00",
   "events": [
-    {
-      "title": "Peter Hook & The Light",
-      "date": "2026-08-27",
-      "venue": "History",
-      "description": "Peter Hook & The Light live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42753965-peter-hook-and-the-light-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Isoxo",
       "date": "2026-08-28",
@@ -257,6 +247,16 @@
       "venue": "RBC Amphitheatre",
       "description": "BABYMETAL live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43131642-babymetal-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Choir! Choir! Choir!",
+      "date": "2026-09-07",
+      "venue": "Opera House",
+      "description": "Choir! Choir! Choir! live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43387313-choir-choir-choir-at-opera-house?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3242,6 +3242,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Bleood",
+      "date": "2026-12-01",
+      "venue": "Phoenix Concert Theatre",
+      "description": "Bleood live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43388286-bleood-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Dragonforce",
       "date": "2026-12-02",
       "venue": "History",
@@ -3482,6 +3492,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Stella Lefty",
+      "date": "2027-01-13",
+      "venue": "History",
+      "description": "Stella Lefty live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43387310-stella-lefty-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "The Musical Box",
       "date": "2027-01-29",
       "venue": "Danforth Music Hall",
@@ -3557,6 +3577,16 @@
       "venue": "Scotiabank Arena",
       "description": "Gracie Abrams live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43242517-gracie-abrams-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Richard Clayderman",
+      "date": "2027-02-27",
+      "venue": "Meridian Hall",
+      "description": "Richard Clayderman live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43358716-richard-clayderman-at-meridian-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
