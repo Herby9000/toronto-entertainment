@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-28T21:25:29.955851+00:00",
+  "updated": "2026-08-29T15:37:57.248574+00:00",
   "events": [
-    {
-      "title": "Isoxo",
-      "date": "2026-08-28",
-      "venue": "History",
-      "description": "Isoxo live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43217079-isoxo-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Sean Paul",
-      "date": "2026-08-28",
-      "venue": "RBC Amphitheatre",
-      "description": "Sean Paul live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42996233-sean-paul-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tiffany Day",
-      "date": "2026-08-28",
-      "venue": "Opera House",
-      "description": "Tiffany Day live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43198409-tiffany-day-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Blue Rodeo",
       "date": "2026-08-29",
@@ -2042,6 +2012,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Sunanda Sharma",
+      "date": "2026-10-18",
+      "venue": "The Theatre at Great Canadian Resort & Casino",
+      "description": "Sunanda Sharma live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43389028-sunanda-sharma-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "hey, nothing",
       "date": "2026-10-18",
       "venue": "Opera House",
@@ -3587,6 +3567,16 @@
       "venue": "Meridian Hall",
       "description": "Richard Clayderman live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43358716-richard-clayderman-at-meridian-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Pablo Ziegler",
+      "date": "2027-02-28",
+      "venue": "Koerner Hall, TELUS Centre, Royal Conservatory",
+      "description": "Pablo Ziegler live at Koerner Hall, TELUS Centre, Royal Conservatory. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43375499-pablo-ziegler-at-koerner-hall-telus-centre-royal-conservatory?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
