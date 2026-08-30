@@ -1,66 +1,6 @@
 {
-  "updated": "2026-08-29T15:37:57.248574+00:00",
+  "updated": "2026-08-30T15:20:25.960657+00:00",
   "events": [
-    {
-      "title": "Blue Rodeo",
-      "date": "2026-08-29",
-      "venue": "RBC Amphitheatre",
-      "description": "Blue Rodeo live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43143966-blue-rodeo-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Iron Maiden",
-      "date": "2026-08-29",
-      "venue": "Scotiabank Arena",
-      "description": "Iron Maiden live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42855408-iron-maiden-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Isoxo",
-      "date": "2026-08-29",
-      "venue": "History",
-      "description": "Isoxo live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43224497-isoxo-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Maségo",
-      "date": "2026-08-29",
-      "venue": "Massey Hall",
-      "description": "Maségo live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43258472-masego-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Wiggles",
-      "date": "2026-08-29",
-      "venue": "Meridian Hall",
-      "description": "The Wiggles, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42880783-wiggles-at-meridian-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "family",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Wiggles",
-      "date": "2026-08-29",
-      "venue": "Meridian Hall",
-      "description": "The Wiggles, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42880784-wiggles-at-meridian-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "family",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Ammy Virk",
       "date": "2026-08-30",
