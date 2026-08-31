@@ -1,46 +1,6 @@
 {
-  "updated": "2026-08-30T15:20:25.960657+00:00",
+  "updated": "2026-08-31T18:00:11.207814+00:00",
   "events": [
-    {
-      "title": "Ammy Virk",
-      "date": "2026-08-30",
-      "venue": "The Theatre at Great Canadian Resort & Casino",
-      "description": "Ammy Virk live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43347109-ammy-virk-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Iron Maiden",
-      "date": "2026-08-30",
-      "venue": "Scotiabank Arena",
-      "description": "Iron Maiden live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42864945-iron-maiden-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Red Jumpsuit Apparatus",
-      "date": "2026-08-30",
-      "venue": "Phoenix Concert Theatre",
-      "description": "The Red Jumpsuit Apparatus live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43161308-red-jumpsuit-apparatus-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Toto",
-      "date": "2026-08-30",
-      "venue": "RBC Amphitheatre",
-      "description": "Toto live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42935523-toto-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Don Toliver",
       "date": "2026-08-31",
@@ -1157,16 +1117,6 @@
       "venue": "Danforth Music Hall",
       "description": "Naomi Sharon live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43264208-naomi-sharon-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Polyphia",
-      "date": "2026-09-29",
-      "venue": "The Theatre at Great Canadian Resort & Casino",
-      "description": "Polyphia live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43276621-polyphia-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3517,6 +3467,16 @@
       "venue": "Koerner Hall, TELUS Centre, Royal Conservatory",
       "description": "Pablo Ziegler live at Koerner Hall, TELUS Centre, Royal Conservatory. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43375499-pablo-ziegler-at-koerner-hall-telus-centre-royal-conservatory?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Polyphia",
+      "date": "2027-03-02",
+      "venue": "The Theatre at Great Canadian Resort & Casino",
+      "description": "Polyphia live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43276621-polyphia-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
