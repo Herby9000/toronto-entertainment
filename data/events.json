@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-31T18:00:11.207814+00:00",
+  "updated": "2026-09-01T15:27:59.294806+00:00",
   "events": [
-    {
-      "title": "Don Toliver",
-      "date": "2026-08-31",
-      "venue": "Scotiabank Arena",
-      "description": "Don Toliver live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43268161-don-toliver-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Squeeze",
-      "date": "2026-08-31",
-      "venue": "RBC Amphitheatre",
-      "description": "Squeeze live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43198446-squeeze-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Chris Stapleton",
       "date": "2026-09-01",
@@ -3477,6 +3457,16 @@
       "venue": "The Theatre at Great Canadian Resort & Casino",
       "description": "Polyphia live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43276621-polyphia-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Sonic Symphony 2027",
+      "date": "2027-03-03",
+      "venue": "Meridian Hall",
+      "description": "Sonic Symphony 2027 live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/festivals/3789539-sonic-symphony/id/43293754-sonic-symphony-2027?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
