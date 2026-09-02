@@ -1,26 +1,6 @@
 {
-  "updated": "2026-09-01T15:27:59.294806+00:00",
+  "updated": "2026-09-02T15:06:30.653712+00:00",
   "events": [
-    {
-      "title": "Chris Stapleton",
-      "date": "2026-09-01",
-      "venue": "Rogers Stadium",
-      "description": "Chris Stapleton live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42992963-chris-stapleton-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Rob Zombie",
-      "date": "2026-09-01",
-      "venue": "RBC Amphitheatre",
-      "description": "Rob Zombie live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42990626-rob-zombie-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Jackson Dean",
       "date": "2026-09-02",
@@ -747,6 +727,16 @@
       "venue": "Scotiabank Arena",
       "description": "Charli XCX live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43262032-charli-xcx-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Frank Carter & the Sex Pistols",
+      "date": "2026-09-21",
+      "venue": "History",
+      "description": "Frank Carter & the Sex Pistols live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43085505-frank-carter-and-the-sex-pistols-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -1977,6 +1967,16 @@
       "venue": "Massey Hall",
       "description": "The Tallest Man On Earth live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43342255-tallest-man-on-earth-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jonas Brothers",
+      "date": "2026-10-24",
+      "venue": "Scotiabank Arena",
+      "description": "Jonas Brothers live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43393912-jonas-brothers-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
