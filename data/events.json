@@ -1,26 +1,6 @@
 {
-  "updated": "2026-09-02T15:06:30.653712+00:00",
+  "updated": "2026-09-03T15:00:06.296569+00:00",
   "events": [
-    {
-      "title": "Jackson Dean",
-      "date": "2026-09-02",
-      "venue": "Opera House",
-      "description": "Jackson Dean live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43314533-jackson-dean-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "TLC",
-      "date": "2026-09-02",
-      "venue": "RBC Amphitheatre",
-      "description": "TLC live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43118529-tlc-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "ASAL",
       "date": "2026-09-03",
@@ -177,6 +157,16 @@
       "venue": "Opera House",
       "description": "Crash Adams live at Opera House. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43149003-crash-adams-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Damhnait Doyle",
+      "date": "2026-09-10",
+      "venue": "Massey Hall",
+      "description": "Damhnait Doyle live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43393776-damhnait-doyle-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
