@@ -1,16 +1,6 @@
 {
-  "updated": "2026-09-03T15:00:06.296569+00:00",
+  "updated": "2026-09-04T14:57:29.964808+00:00",
   "events": [
-    {
-      "title": "ASAL",
-      "date": "2026-09-03",
-      "venue": "Opera House",
-      "description": "ASAL live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43215589-asal-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Arlo Parks",
       "date": "2026-09-04",
@@ -247,6 +237,16 @@
       "venue": "RBC Amphitheatre",
       "description": "Roxette live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43236234-roxette-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "TLC",
+      "date": "2026-09-11",
+      "venue": "RBC Amphitheatre",
+      "description": "TLC live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43118529-tlc-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3387,6 +3387,16 @@
       "venue": "History",
       "description": "Houndmouth live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43178379-houndmouth-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jackson Dean",
+      "date": "2027-02-11",
+      "venue": "Opera House",
+      "description": "Jackson Dean live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43398040-jackson-dean-at-opera-house?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
