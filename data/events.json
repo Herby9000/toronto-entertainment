@@ -1,26 +1,6 @@
 {
-  "updated": "2026-09-04T14:57:29.964808+00:00",
+  "updated": "2026-09-05T13:51:40.541286+00:00",
   "events": [
-    {
-      "title": "Arlo Parks",
-      "date": "2026-09-04",
-      "venue": "History",
-      "description": "Arlo Parks live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43085587-arlo-parks-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Hoang",
-      "date": "2026-09-04",
-      "venue": "Opera House",
-      "description": "Hoang live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43311543-hoang-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Anirudh Ravichander",
       "date": "2026-09-05",
@@ -187,6 +167,16 @@
       "venue": "RBC Amphitheatre",
       "description": "Lily Allen live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43125798-lily-allen-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Live & Loud Festival 2026",
+      "date": "2026-09-10",
+      "venue": "Massey Hall",
+      "description": "Live & Loud Festival 2026 live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/festivals/154261-live-loud/id/43398224-live--loud-festival-2026?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3467,6 +3457,16 @@
       "venue": "Meridian Hall",
       "description": "Sonic Symphony 2027 live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/festivals/3789539-sonic-symphony/id/43293754-sonic-symphony-2027?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Dinosaur Jr.",
+      "date": "2027-03-07",
+      "venue": "Danforth Music Hall",
+      "description": "Dinosaur Jr. live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43389025-dinosaur-jr-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
