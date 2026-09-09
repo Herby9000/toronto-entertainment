@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-08T15:07:00.907467+00:00",
+  "updated": "2026-09-09T15:07:11.132451+00:00",
   "events": [
-    {
-      "title": "Hazlett",
-      "date": "2026-09-08",
-      "venue": "Danforth Music Hall",
-      "description": "Hazlett live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43275018-hazlett-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Rasmus",
-      "date": "2026-09-08",
-      "venue": "Opera House",
-      "description": "The Rasmus live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43311557-rasmus-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Wu-Tang Clan",
-      "date": "2026-09-08",
-      "venue": "RBC Amphitheatre",
-      "description": "Wu-Tang Clan live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43118615-wutang-clan-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Breaking Benjamin",
       "date": "2026-09-09",
@@ -2152,6 +2122,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Dalvin La Melodia",
+      "date": "2026-10-31",
+      "venue": "Meridian Hall",
+      "description": "Dalvin La Melodia live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43404849-dalvin-la-melodia-at-meridian-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Grateful Shred",
       "date": "2026-10-31",
       "venue": "Opera House",
@@ -2542,6 +2522,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "IT'S MURPH",
+      "date": "2026-11-13",
+      "venue": "History",
+      "description": "IT'S MURPH live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43404452-its-murph-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Tobiahs",
       "date": "2026-11-13",
       "venue": "Opera House",
@@ -2587,6 +2577,16 @@
       "venue": "History",
       "description": "Wheeler Walker, Jr. live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43261973-wheeler-walker-jr-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Prateek Kuhad",
+      "date": "2026-11-16",
+      "venue": "Massey Hall",
+      "description": "Prateek Kuhad live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43404905-prateek-kuhad-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -2892,6 +2892,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Takuya Nakamura",
+      "date": "2026-11-26",
+      "venue": "Opera House",
+      "description": "Takuya Nakamura live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43404920-takuya-nakamura-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Tyla",
       "date": "2026-11-26",
       "venue": "Coca-Cola Coliseum",
@@ -3042,11 +3052,31 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Jann Arden",
+      "date": "2026-12-03",
+      "venue": "Massey Hall",
+      "description": "Jann Arden live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43398153-jann-arden-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "6LACK",
       "date": "2026-12-04",
       "venue": "History",
       "description": "6LACK live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43237343-6lack-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Jann Arden",
+      "date": "2026-12-04",
+      "venue": "Massey Hall",
+      "description": "Jann Arden live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43398155-jann-arden-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3337,6 +3367,16 @@
       "venue": "Opera House",
       "description": "Jackson Dean live at Opera House. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43398040-jackson-dean-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Dexter and The Moonrocks",
+      "date": "2027-02-17",
+      "venue": "History",
+      "description": "Dexter and The Moonrocks live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43404877-dexter-and-the-moonrocks-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
