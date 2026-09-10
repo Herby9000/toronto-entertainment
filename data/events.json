@@ -1,46 +1,6 @@
 {
-  "updated": "2026-09-09T15:07:11.132451+00:00",
+  "updated": "2026-09-10T14:59:05.397307+00:00",
   "events": [
-    {
-      "title": "Breaking Benjamin",
-      "date": "2026-09-09",
-      "venue": "RBC Amphitheatre",
-      "description": "Breaking Benjamin live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43052052-breaking-benjamin-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Colin Stetson",
-      "date": "2026-09-09",
-      "venue": "Opera House",
-      "description": "Colin Stetson live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43225493-colin-stetson-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Melanie C",
-      "date": "2026-09-09",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Melanie C live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43099106-melanie-c-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Sunset Rollercoaster",
-      "date": "2026-09-09",
-      "venue": "History",
-      "description": "Sunset Rollercoaster live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43121117-sunset-rollercoaster-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Crash Adams",
       "date": "2026-09-10",
@@ -3252,6 +3212,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Kip Moore",
+      "date": "2026-12-18",
+      "venue": "Danforth Music Hall",
+      "description": "Kip Moore live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43407256-kip-moore-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "The Barra Macneils",
       "date": "2026-12-18",
       "venue": "Massey Hall",
@@ -3287,6 +3257,26 @@
       "venue": "Danforth Music Hall",
       "description": "Skydiggers live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43289420-skydiggers-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Trans-Siberian Orchestra",
+      "date": "2026-12-29",
+      "venue": "Scotiabank Arena",
+      "description": "Trans-Siberian Orchestra live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43407243-transsiberian-orchestra-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Trans-Siberian Orchestra",
+      "date": "2026-12-29",
+      "venue": "Scotiabank Arena",
+      "description": "Trans-Siberian Orchestra live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43407278-transsiberian-orchestra-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3412,6 +3402,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Godspeed You! Black Emperor",
+      "date": "2027-02-27",
+      "venue": "Danforth Music Hall",
+      "description": "Godspeed You! Black Emperor live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43407252-godspeed-you-black-emperor-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Richard Clayderman",
       "date": "2027-02-27",
       "venue": "Meridian Hall",
@@ -3457,6 +3457,16 @@
       "venue": "Danforth Music Hall",
       "description": "Dinosaur Jr. live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43389025-dinosaur-jr-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "The Mary Wallopers",
+      "date": "2027-03-12",
+      "venue": "History",
+      "description": "The Mary Wallopers live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43357149-mary-wallopers-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
