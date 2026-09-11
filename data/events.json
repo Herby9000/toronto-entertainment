@@ -1,66 +1,6 @@
 {
-  "updated": "2026-09-10T14:59:05.397307+00:00",
+  "updated": "2026-09-11T15:02:00.722768+00:00",
   "events": [
-    {
-      "title": "Crash Adams",
-      "date": "2026-09-10",
-      "venue": "Opera House",
-      "description": "Crash Adams live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43149003-crash-adams-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Damhnait Doyle",
-      "date": "2026-09-10",
-      "venue": "Massey Hall",
-      "description": "Damhnait Doyle live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43393776-damhnait-doyle-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Danny Elfman",
-      "date": "2026-09-10",
-      "venue": "History",
-      "description": "Danny Elfman live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43309365-danny-elfman-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Face To Face",
-      "date": "2026-09-10",
-      "venue": "Danforth Music Hall",
-      "description": "Face To Face live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43301655-face-to-face-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Lily Allen",
-      "date": "2026-09-10",
-      "venue": "RBC Amphitheatre",
-      "description": "Lily Allen live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43125798-lily-allen-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Live & Loud Festival 2026",
-      "date": "2026-09-10",
-      "venue": "Massey Hall",
-      "description": "Live & Loud Festival 2026 live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/festivals/154261-live-loud/id/43398224-live--loud-festival-2026?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Adéla",
       "date": "2026-09-11",
@@ -2512,6 +2452,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "IT'S MURPH",
+      "date": "2026-11-14",
+      "venue": "History",
+      "description": "IT'S MURPH live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43409213-its-murph-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Julia Jacklin",
       "date": "2026-11-15",
       "venue": "Danforth Music Hall",
@@ -3467,6 +3417,16 @@
       "venue": "History",
       "description": "The Mary Wallopers live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43357149-mary-wallopers-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Theory of a Deadman",
+      "date": "2027-03-13",
+      "venue": "The Theatre at Great Canadian Resort & Casino",
+      "description": "Theory of a Deadman live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43384740-theory-of-a-deadman-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
