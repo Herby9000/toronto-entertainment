@@ -1,66 +1,6 @@
 {
-  "updated": "2026-09-13T14:55:05.821971+00:00",
+  "updated": "2026-09-14T16:57:37.603188+00:00",
   "events": [
-    {
-      "title": "Bilmuri",
-      "date": "2026-09-13",
-      "venue": "History",
-      "description": "Bilmuri live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43037330-bilmuri-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Disney",
-      "date": "2026-09-13",
-      "venue": "The Bowl at Sobeys Stadium",
-      "description": "Disney, a live Toronto performance. Confirm show time, age guidance and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43296385-disney-at-bowl-at-sobeys-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Live Events",
-      "audience": "family",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Erykah Badu",
-      "date": "2026-09-13",
-      "venue": "RBC Amphitheatre",
-      "description": "Erykah Badu live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43289458-erykah-badu-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Jay Park",
-      "date": "2026-09-13",
-      "venue": "The Theatre at Great Canadian Resort & Casino",
-      "description": "Jay Park live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43264168-jay-park-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Shreya Ghoshal",
-      "date": "2026-09-13",
-      "venue": "Scotiabank Arena",
-      "description": "Shreya Ghoshal live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43156691-shreya-ghoshal-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "yeat",
-      "date": "2026-09-13",
-      "venue": "Coca-Cola Coliseum",
-      "description": "yeat live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43131554-yeat-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "$UICIDEBOY$",
       "date": "2026-09-14",
@@ -2592,6 +2532,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Victoria Monét",
+      "date": "2026-11-21",
+      "venue": "Coca-Cola Coliseum",
+      "description": "Victoria Monét live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43409644-victoria-monet-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Giant Rooks",
       "date": "2026-11-22",
       "venue": "Opera House",
@@ -3327,6 +3277,16 @@
       "venue": "The Theatre at Great Canadian Resort & Casino",
       "description": "Theory of a Deadman live at The Theatre at Great Canadian Resort & Casino. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43384740-theory-of-a-deadman-at-theatre-at-great-canadian-resort-and-casino?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Pink Martini",
+      "date": "2027-03-16",
+      "venue": "Roy Thomson Hall",
+      "description": "Pink Martini live at Roy Thomson Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43247311-pink-martini-at-roy-thomson-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
