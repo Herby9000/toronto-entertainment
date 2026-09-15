@@ -1,56 +1,6 @@
 {
-  "updated": "2026-09-14T16:57:37.603188+00:00",
+  "updated": "2026-09-15T15:34:37.228538+00:00",
   "events": [
-    {
-      "title": "$UICIDEBOY$",
-      "date": "2026-09-14",
-      "venue": "RBC Amphitheatre",
-      "description": "$UICIDEBOY$ live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43134086-suicideboys-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Brian Fallon",
-      "date": "2026-09-14",
-      "venue": "Opera House",
-      "description": "Brian Fallon live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43268123-brian-fallon-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Channel Tres",
-      "date": "2026-09-14",
-      "venue": "Danforth Music Hall",
-      "description": "Channel Tres live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43205919-channel-tres-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Descendents",
-      "date": "2026-09-14",
-      "venue": "History",
-      "description": "Descendents live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43065408-descendents-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Social Distortion",
-      "date": "2026-09-14",
-      "venue": "History",
-      "description": "Social Distortion live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43146071-social-distortion-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Anees",
       "date": "2026-09-15",
@@ -3102,6 +3052,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "DJ Meredith Marks",
+      "date": "2027-01-28",
+      "venue": "History",
+      "description": "DJ Meredith Marks live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43414425-dj-meredith-marks-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "The Musical Box",
       "date": "2027-01-29",
       "venue": "Danforth Music Hall",
@@ -3182,11 +3142,31 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Alan Walker",
+      "date": "2027-02-18",
+      "venue": "History",
+      "description": "Alan Walker live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43414487-alan-walker-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Gracie Abrams",
       "date": "2027-02-18",
       "venue": "Scotiabank Arena",
       "description": "Gracie Abrams live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43242516-gracie-abrams-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Alan Walker",
+      "date": "2027-02-19",
+      "venue": "History",
+      "description": "Alan Walker live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43414484-alan-walker-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
