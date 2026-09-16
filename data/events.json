@@ -1,66 +1,6 @@
 {
-  "updated": "2026-09-15T15:34:37.228538+00:00",
+  "updated": "2026-09-16T15:25:27.607180+00:00",
   "events": [
-    {
-      "title": "Anees",
-      "date": "2026-09-15",
-      "venue": "Opera House",
-      "description": "Anees live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43209807-anees-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Dermot Kennedy",
-      "date": "2026-09-15",
-      "venue": "RBC Amphitheatre",
-      "description": "Dermot Kennedy live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43125795-dermot-kennedy-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Robyn",
-      "date": "2026-09-15",
-      "venue": "Scotiabank Arena",
-      "description": "Robyn live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43030895-robyn-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Sara Bareilles",
-      "date": "2026-09-15",
-      "venue": "Massey Hall",
-      "description": "Sara Bareilles live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43254213-sara-bareilles-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Social Distortion",
-      "date": "2026-09-15",
-      "venue": "History",
-      "description": "Social Distortion live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43073435-social-distortion-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Australian Pink Floyd Show",
-      "date": "2026-09-15",
-      "venue": "Danforth Music Hall",
-      "description": "The Australian Pink Floyd Show live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43040113-australian-pink-floyd-show-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "AC/DC",
       "date": "2026-09-16",
@@ -1107,6 +1047,16 @@
       "venue": "Meridian Hall",
       "description": "Lenny Pearce live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43270152-lenny-pearce-at-meridian-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "PROSPA",
+      "date": "2026-10-08",
+      "venue": "History",
+      "description": "PROSPA live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43416251-prospa-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -2852,11 +2802,31 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "The Trews",
+      "date": "2026-12-05",
+      "venue": "Danforth Music Hall",
+      "description": "The Trews live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43363292-trews-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Amanda Marshall",
       "date": "2026-12-06",
       "venue": "Massey Hall",
       "description": "Amanda Marshall live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43294540-amanda-marshall-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Syd",
+      "date": "2026-12-08",
+      "venue": "History",
+      "description": "Syd live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43417249-syd-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3057,6 +3027,16 @@
       "venue": "History",
       "description": "DJ Meredith Marks live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43414425-dj-meredith-marks-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Meredith Marks",
+      "date": "2027-01-28",
+      "venue": "History",
+      "description": "Meredith Marks live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43418770-meredith-marks-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
