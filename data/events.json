@@ -1,76 +1,6 @@
 {
-  "updated": "2026-09-16T15:25:27.607180+00:00",
+  "updated": "2026-09-17T15:32:25.884962+00:00",
   "events": [
-    {
-      "title": "AC/DC",
-      "date": "2026-09-16",
-      "venue": "Rogers Stadium",
-      "description": "AC/DC live at Rogers Stadium. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42871083-acdc-at-rogers-stadium?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Aldous Harding",
-      "date": "2026-09-16",
-      "venue": "Danforth Music Hall",
-      "description": "Aldous Harding live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/42988659-aldous-harding-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Bryson Tiller",
-      "date": "2026-09-16",
-      "venue": "RBC Amphitheatre",
-      "description": "Bryson Tiller live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43247316-bryson-tiller-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Gibran Alcocer",
-      "date": "2026-09-16",
-      "venue": "Queen Elizabeth Theatre - Exhibition Place",
-      "description": "Gibran Alcocer live at Queen Elizabeth Theatre - Exhibition Place. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43207410-gibran-alcocer-at-queen-elizabeth-theatre-exhibition-place?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Saint Levant",
-      "date": "2026-09-16",
-      "venue": "History",
-      "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43328399-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Sara Bareilles",
-      "date": "2026-09-16",
-      "venue": "Massey Hall",
-      "description": "Sara Bareilles live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43262046-sara-bareilles-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Willow Avalon",
-      "date": "2026-09-16",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Willow Avalon live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43194151-willow-avalon-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Jensen McRae",
       "date": "2026-09-17",
@@ -1672,16 +1602,6 @@
       "source": "Songkick Toronto calendar"
     },
     {
-      "title": "strongboi",
-      "date": "2026-10-28",
-      "venue": "Phoenix Concert Theatre",
-      "description": "strongboi live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43264175-strongboi-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
       "title": "Dulce",
       "date": "2026-10-29",
       "venue": "Opera House",
@@ -1957,6 +1877,16 @@
       "venue": "History",
       "description": "Angine de Poitrine live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43217555-angine-de-poitrine-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Econoline Crush",
+      "date": "2026-11-05",
+      "venue": "Phoenix Concert Theatre",
+      "description": "Econoline Crush live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43419581-econoline-crush-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3117,6 +3047,16 @@
       "venue": "Scotiabank Arena",
       "description": "Don Omar live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43285858-don-omar-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "strongboi",
+      "date": "2027-02-17",
+      "venue": "Phoenix Concert Theatre",
+      "description": "strongboi live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43264175-strongboi-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
