@@ -1,56 +1,6 @@
 {
-  "updated": "2026-09-17T15:32:25.884962+00:00",
+  "updated": "2026-09-18T14:59:23.922131+00:00",
   "events": [
-    {
-      "title": "Jensen McRae",
-      "date": "2026-09-17",
-      "venue": "Danforth Music Hall",
-      "description": "Jensen McRae live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43280079-jensen-mcrae-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "LOLO (US)",
-      "date": "2026-09-17",
-      "venue": "Opera House",
-      "description": "LOLO (US) live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43255453-lolo-us-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "LØLØ",
-      "date": "2026-09-17",
-      "venue": "Opera House",
-      "description": "LØLØ live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43219158-lolo-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Of Monsters and Men",
-      "date": "2026-09-17",
-      "venue": "RBC Amphitheatre",
-      "description": "Of Monsters and Men live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43311546-of-monsters-and-men-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Saint Levant",
-      "date": "2026-09-17",
-      "venue": "History",
-      "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43328386-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Altın Gün",
       "date": "2026-09-18",
@@ -1522,16 +1472,6 @@
       "source": "Songkick Toronto calendar"
     },
     {
-      "title": "Blondshell",
-      "date": "2026-10-27",
-      "venue": "Danforth Music Hall",
-      "description": "Blondshell live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43220929-blondshell-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
       "title": "Olivia Rodrigo",
       "date": "2026-10-27",
       "venue": "Scotiabank Arena",
@@ -2812,6 +2752,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Nick Cannon",
+      "date": "2026-12-11",
+      "venue": "Scotiabank Arena",
+      "description": "Nick Cannon live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43422611-nick-cannon-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Tha Alkaholiks",
       "date": "2026-12-11",
       "venue": "Phoenix Concert Theatre",
@@ -3187,6 +3137,16 @@
       "venue": "Roy Thomson Hall",
       "description": "Pink Martini live at Roy Thomson Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43247311-pink-martini-at-roy-thomson-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Blondshell",
+      "date": "2027-03-20",
+      "venue": "Danforth Music Hall",
+      "description": "Blondshell live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43220929-blondshell-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
