@@ -1,56 +1,6 @@
 {
-  "updated": "2026-09-18T14:59:23.922131+00:00",
+  "updated": "2026-09-19T14:26:08.511507+00:00",
   "events": [
-    {
-      "title": "Altın Gün",
-      "date": "2026-09-18",
-      "venue": "Danforth Music Hall",
-      "description": "Altın Gün live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43121136-altin-gun-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Bella Kay",
-      "date": "2026-09-18",
-      "venue": "Opera House",
-      "description": "Bella Kay live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43309392-bella-kay-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Cabaret Voltaire",
-      "date": "2026-09-18",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Cabaret Voltaire live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43055021-cabaret-voltaire-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Kathleen Edwards",
-      "date": "2026-09-18",
-      "venue": "Massey Hall",
-      "description": "Kathleen Edwards live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43201546-kathleen-edwards-at-massey-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tinlicker",
-      "date": "2026-09-18",
-      "venue": "History",
-      "description": "Tinlicker live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43167417-tinlicker-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Juanes",
       "date": "2026-09-19",
@@ -2322,6 +2272,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Gnarls Barkley",
+      "date": "2026-11-22",
+      "venue": "History",
+      "description": "Gnarls Barkley live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43423259-gnarls-barkley-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Little Big Town",
       "date": "2026-11-22",
       "venue": "Massey Hall",
@@ -3147,6 +3107,16 @@
       "venue": "Danforth Music Hall",
       "description": "Blondshell live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43220929-blondshell-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Valley",
+      "date": "2027-03-20",
+      "venue": "Massey Hall",
+      "description": "Valley live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43423258-valley-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
