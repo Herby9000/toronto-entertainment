@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-20T14:41:54.361501+00:00",
+  "updated": "2026-09-21T17:04:11.113580+00:00",
   "events": [
-    {
-      "title": "Loathe",
-      "date": "2026-09-20",
-      "venue": "History",
-      "description": "Loathe live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43183511-loathe-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Charlatans",
-      "date": "2026-09-20",
-      "venue": "Danforth Music Hall",
-      "description": "The Charlatans live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43171519-charlatans-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Thee Sacred Souls",
-      "date": "2026-09-20",
-      "venue": "RBC Amphitheatre",
-      "description": "Thee Sacred Souls live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43052091-thee-sacred-souls-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Charli XCX",
       "date": "2026-09-21",
@@ -3067,6 +3037,16 @@
       "venue": "Massey Hall",
       "description": "Valley live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43423258-valley-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Saint Levant",
+      "date": "2027-03-23",
+      "venue": "History",
+      "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43328399-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
