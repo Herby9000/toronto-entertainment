@@ -1,46 +1,6 @@
 {
-  "updated": "2026-09-21T17:04:11.113580+00:00",
+  "updated": "2026-09-22T15:31:50.550865+00:00",
   "events": [
-    {
-      "title": "Charli XCX",
-      "date": "2026-09-21",
-      "venue": "Scotiabank Arena",
-      "description": "Charli XCX live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43262032-charli-xcx-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Frank Carter & the Sex Pistols",
-      "date": "2026-09-21",
-      "venue": "History",
-      "description": "Frank Carter & the Sex Pistols live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43085505-frank-carter-and-the-sex-pistols-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Sex Pistols featuring Frank Carter",
-      "date": "2026-09-21",
-      "venue": "History",
-      "description": "Sex Pistols featuring Frank Carter live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43085505-sex-pistols-featuring-frank-carter-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Staind",
-      "date": "2026-09-21",
-      "venue": "RBC Amphitheatre",
-      "description": "Staind live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43026030-staind-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Amigo the Devil",
       "date": "2026-09-22",
@@ -1882,6 +1842,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Triples",
+      "date": "2026-11-11",
+      "venue": "Massey Hall",
+      "description": "Triples live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43426470-triples-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Bryce Alakai",
       "date": "2026-11-12",
       "venue": "History",
@@ -2782,6 +2752,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Ninajirachi",
+      "date": "2027-01-22",
+      "venue": "History",
+      "description": "Ninajirachi live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43426437-ninajirachi-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "DJ Meredith Marks",
       "date": "2027-01-28",
       "venue": "History",
@@ -2862,6 +2842,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "James Marriott",
+      "date": "2027-02-16",
+      "venue": "Opera House",
+      "description": "James Marriott live at Opera House. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43426429-james-marriott-at-opera-house?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Dexter and The Moonrocks",
       "date": "2027-02-17",
       "venue": "History",
@@ -2933,6 +2923,16 @@
     },
     {
       "title": "Godspeed You! Black Emperor",
+      "date": "2027-02-26",
+      "venue": "Danforth Music Hall",
+      "description": "Godspeed You! Black Emperor live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43427917-godspeed-you-black-emperor-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Godspeed You! Black Emperor",
       "date": "2027-02-27",
       "venue": "Danforth Music Hall",
       "description": "Godspeed You! Black Emperor live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
@@ -2977,6 +2977,16 @@
       "venue": "Meridian Hall",
       "description": "Sonic Symphony 2027 live at Meridian Hall. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/festivals/3789539-sonic-symphony/id/43293754-sonic-symphony-2027?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Hey Rosetta!",
+      "date": "2027-03-05",
+      "venue": "History",
+      "description": "Hey Rosetta! live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43427911-hey-rosetta-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3047,6 +3057,16 @@
       "venue": "History",
       "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43328399-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Saint Levant",
+      "date": "2027-03-24",
+      "venue": "History",
+      "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43328386-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
