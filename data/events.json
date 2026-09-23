@@ -1,56 +1,6 @@
 {
-  "updated": "2026-09-22T15:31:50.550865+00:00",
+  "updated": "2026-09-23T15:27:04.290957+00:00",
   "events": [
-    {
-      "title": "Amigo the Devil",
-      "date": "2026-09-22",
-      "venue": "Danforth Music Hall",
-      "description": "Amigo the Devil live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43333131-amigo-the-devil-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Hammerfall",
-      "date": "2026-09-22",
-      "venue": "Phoenix Concert Theatre",
-      "description": "Hammerfall live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43051805-hammerfall-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Kany García",
-      "date": "2026-09-22",
-      "venue": "History",
-      "description": "Kany García live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43156738-kany-garcia-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tove Lo",
-      "date": "2026-09-22",
-      "venue": "Coca-Cola Coliseum",
-      "description": "Tove Lo live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43220023-tove-lo-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Yard Act",
-      "date": "2026-09-22",
-      "venue": "Opera House",
-      "description": "Yard Act live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43289461-yard-act-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Cavetown",
       "date": "2026-09-23",
@@ -1682,6 +1632,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Mavado",
+      "date": "2026-11-05",
+      "venue": "Scotiabank Arena",
+      "description": "Mavado live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43428662-mavado-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Justin Nozuka",
       "date": "2026-11-06",
       "venue": "Opera House",
@@ -2292,16 +2252,6 @@
       "source": "Songkick Toronto calendar"
     },
     {
-      "title": "Death from Above 1979",
-      "date": "2026-11-27",
-      "venue": "History",
-      "description": "Death from Above 1979 live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43225448-death-from-above-1979-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
       "title": "Disney",
       "date": "2026-11-27",
       "venue": "Meridian Hall",
@@ -2792,6 +2742,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "The Musical Box",
+      "date": "2027-01-30",
+      "venue": "Danforth Music Hall",
+      "description": "The Musical Box live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43428668-musical-box-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "French 79",
       "date": "2027-02-03",
       "venue": "Danforth Music Hall",
@@ -2917,6 +2877,16 @@
       "venue": "Scotiabank Arena",
       "description": "Gracie Abrams live at Scotiabank Arena. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43242517-gracie-abrams-at-scotiabank-arena?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Death from Above 1979",
+      "date": "2027-02-25",
+      "venue": "History",
+      "description": "Death from Above 1979 live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43225448-death-from-above-1979-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
@@ -3067,6 +3037,16 @@
       "venue": "History",
       "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43328386-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Saint Levant",
+      "date": "2027-03-25",
+      "venue": "History",
+      "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43393900-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
