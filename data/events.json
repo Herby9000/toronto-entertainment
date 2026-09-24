@@ -1,46 +1,6 @@
 {
-  "updated": "2026-09-23T15:27:04.290957+00:00",
+  "updated": "2026-09-24T15:49:15.528797+00:00",
   "events": [
-    {
-      "title": "Cavetown",
-      "date": "2026-09-23",
-      "venue": "History",
-      "description": "Cavetown live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43156049-cavetown-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Dying Fetus",
-      "date": "2026-09-23",
-      "venue": "Danforth Music Hall",
-      "description": "Dying Fetus live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43183544-dying-fetus-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The Garden",
-      "date": "2026-09-23",
-      "venue": "Phoenix Concert Theatre",
-      "description": "The Garden live at Phoenix Concert Theatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43276904-garden-at-phoenix-concert-theatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Tove Lo",
-      "date": "2026-09-23",
-      "venue": "Coca-Cola Coliseum",
-      "description": "Tove Lo live at Coca-Cola Coliseum. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43211641-tove-lo-at-cocacola-coliseum?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Brandon Flowers",
       "date": "2026-09-24",
@@ -1782,6 +1742,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Trippie Redd",
+      "date": "2026-11-10",
+      "venue": "History",
+      "description": "Trippie Redd live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43430745-trippie-redd-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Basement",
       "date": "2026-11-11",
       "venue": "Danforth Music Hall",
@@ -2703,6 +2673,16 @@
     },
     {
       "title": "Ninajirachi",
+      "date": "2027-01-21",
+      "venue": "History",
+      "description": "Ninajirachi live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43430759-ninajirachi-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Ninajirachi",
       "date": "2027-01-22",
       "venue": "History",
       "description": "Ninajirachi live at History. Confirm doors, age restrictions and tickets at the source.",
@@ -2962,6 +2942,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Hey Rosetta!",
+      "date": "2027-03-06",
+      "venue": "History",
+      "description": "Hey Rosetta! live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43430767-hey-rosetta-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "Dinosaur Jr.",
       "date": "2027-03-07",
       "venue": "Danforth Music Hall",
@@ -3047,6 +3037,16 @@
       "venue": "History",
       "description": "Saint Levant live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43393900-saint-levant-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Morat",
+      "date": "2027-03-26",
+      "venue": "History",
+      "description": "Morat live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43223077-morat-at-history?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
