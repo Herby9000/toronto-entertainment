@@ -1,46 +1,6 @@
 {
-  "updated": "2026-09-24T15:49:15.528797+00:00",
+  "updated": "2026-09-25T15:49:24.223457+00:00",
   "events": [
-    {
-      "title": "Brandon Flowers",
-      "date": "2026-09-24",
-      "venue": "History",
-      "description": "Brandon Flowers live at History. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43292224-brandon-flowers-at-history?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Dean Brody",
-      "date": "2026-09-24",
-      "venue": "RBC Amphitheatre",
-      "description": "Dean Brody live at RBC Amphitheatre. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43198398-dean-brody-at-rbc-amphitheatre?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "Nation of Language",
-      "date": "2026-09-24",
-      "venue": "Danforth Music Hall",
-      "description": "Nation of Language live at Danforth Music Hall. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43107898-nation-of-language-at-danforth-music-hall?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
-    {
-      "title": "The High Kings",
-      "date": "2026-09-24",
-      "venue": "Opera House",
-      "description": "The High Kings live at Opera House. Confirm doors, age restrictions and tickets at the source.",
-      "url": "https://www.songkick.com/concerts/43198467-high-kings-at-opera-house?utm_medium=organic&utm_source=microformat",
-      "category": "Music",
-      "audience": "all",
-      "source": "Songkick Toronto calendar"
-    },
     {
       "title": "Ludovico Einaudi",
       "date": "2026-09-25",
@@ -2962,6 +2922,16 @@
       "source": "Songkick Toronto calendar"
     },
     {
+      "title": "Hey Rosetta!",
+      "date": "2027-03-07",
+      "venue": "History",
+      "description": "Hey Rosetta! live at History. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43432660-hey-rosetta-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
       "title": "The Mary Wallopers",
       "date": "2027-03-12",
       "venue": "History",
@@ -3047,6 +3017,26 @@
       "venue": "History",
       "description": "Morat live at History. Confirm doors, age restrictions and tickets at the source.",
       "url": "https://www.songkick.com/concerts/43223077-morat-at-history?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Kenny Wayne Shepherd",
+      "date": "2027-03-27",
+      "venue": "Massey Hall",
+      "description": "Kenny Wayne Shepherd live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43417315-kenny-wayne-shepherd-at-massey-hall?utm_medium=organic&utm_source=microformat",
+      "category": "Music",
+      "audience": "all",
+      "source": "Songkick Toronto calendar"
+    },
+    {
+      "title": "Kenny Wayne Shepherd Band",
+      "date": "2027-03-27",
+      "venue": "Massey Hall",
+      "description": "Kenny Wayne Shepherd Band live at Massey Hall. Confirm doors, age restrictions and tickets at the source.",
+      "url": "https://www.songkick.com/concerts/43420701-kenny-wayne-shepherd-band-at-massey-hall?utm_medium=organic&utm_source=microformat",
       "category": "Music",
       "audience": "all",
       "source": "Songkick Toronto calendar"
